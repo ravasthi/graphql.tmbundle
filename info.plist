@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>eninfguv@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Richa Avasthi</string>
+	<key>description</key>
+	<string>Rudimentary GraphQL bundle for TextMate. Language grammar stolen from https://github.com/graphql-python/GraphQL-SublimeText with my thanks.</string>
+	<key>name</key>
+	<string>GraphQL</string>
+	<key>uuid</key>
+	<string>462D4CF1-4DDC-4C46-9EA5-9F52F5781EB4</string>
+</dict>
+</plist>
